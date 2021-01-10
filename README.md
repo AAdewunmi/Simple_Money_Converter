@@ -1,4 +1,4 @@
-# Simple Money Converter Prooject
+# Simple Money Converter Project
 
 This is a console-based Java application, designed to convert money from one currency to another using an exchange rate.
 
