@@ -10,3 +10,6 @@ Download or clone the repository on your local machine.
 $ git clone https://github.com/AAdewunmi/Simple_Money_Converter.git
 $ cd Simple_Money_Converter
 ```
+### Console output 
+
+![Image description](Forkify_Screenshot.png)
