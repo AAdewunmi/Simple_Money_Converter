@@ -12,4 +12,4 @@ $ cd Simple_Money_Converter
 ```
 ### Console output 
 
-![Image description](Screenshot%202021-01-10%20at%2013.45.15.png)
+![Image description](src/Screenshot%202021-01-10%20at%2013.45.15.png)
